@@ -2,7 +2,7 @@ FROM sandy1709/catuserbot:latest
 
 #clonning repo 
 
-RUN git clone https://github.com/Hellodear/catuserbot.git /root/userbot
+RUN git clone https://github.com/Helodear/catuserbot.git /root/userbot
 
 #working directory 
 
